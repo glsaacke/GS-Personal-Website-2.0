@@ -1,0 +1,12 @@
+Color palatte 1
+- SCROLL: F7F5E6
+- VERMILLION: 333A56
+- SUNSHINE: 52658F
+- CLEAN: E8E8E8
+- SKYBLUE: 42e0ff
+
+Color palatte 2
+- Grey: #7A7D7D
+- Davy's Grey: #565254
+- Ivory: #FCFFEB
+- Electric Indigo: #5E2BFF

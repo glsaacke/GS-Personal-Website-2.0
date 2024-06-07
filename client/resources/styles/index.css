@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'primary';
+    src: url("../fonts/Ubuntu-B.ttf");
+}
+
+body {
+
+    background-image: url("../images/wireframes1ccc.jpeg");
+    
+    background-size: cover;
+
+    background-repeat: no-repeat;
+    border: 2px dashed red;
+}
+
+header{
+    display: flex;
+    border: 2px dashed red;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    font-family: primary;
+    color: #e8e8e8;
+}
+   
+h1{
+    font-family: primary;
+    color: #e8e8e8;
+    border: 2px dashed red;
+}
